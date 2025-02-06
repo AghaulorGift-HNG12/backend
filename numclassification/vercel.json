@@ -1,9 +1,9 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "gift-test",
     "builds": [
         {
-            "src": "index.js",
+            "src": "number_api.js",
             "use": "@vercel/node"
         }
     ],
