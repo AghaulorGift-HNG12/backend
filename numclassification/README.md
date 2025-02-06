@@ -72,6 +72,6 @@ http://localhost:5000/api/classify-number?number=371
 ### This project is licensed under the MIT License.
 
 ## Author
-<Aghaulor Gift> Aghaulor Gift
-<aghaulor.gift@gmail.com>aghaulor.gift@gmail.com
-<https://github.com/AghaulorGift-HNG12>GitHub Profile
+(Aghaulor Gift)[Aghaulor Gift]
+[aghaulor.gift@gmail.com](aghaulor.gift@gmail.com)
+[https://github.com/AghaulorGift-HNG12](GitHub Profile)
